@@ -72,9 +72,6 @@ A estrutura deste projeto segue as boas práticas de Ciência de Dados e Engenha
 
 
 **Instituição:** Coimbra Business School | ISCAC 
-
 **Curso:** Licenciatura em Ciência de Dados para a Gestão
-
 **Unidade Curricular:** Projeto em Ciência de Dados
-
 **Professor Responsável:** Dora Melo (dmelo@iscac.pt)
