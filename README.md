@@ -45,7 +45,7 @@ A estrutura deste projeto segue as boas práticas de Ciência de Dados e Engenha
 
 ### Principais Conclusões (EDA)
 > *Dica: Insere aqui o gráfico mais importante do projeto.*
-* *Ponto-chave:** [Ex: Identificámos que o fator X influencia em 40% o resultado Y, por aplicação do método ganho de informação]
+* **Ponto-chave:** [Ex: Identificámos que o fator X influencia em 40% o resultado Y, por aplicação do método ganho de informação]
 
 
 
