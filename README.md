@@ -43,9 +43,9 @@ A estrutura deste projeto segue as boas práticas de Ciência de Dados e Engenha
 ### Limpeza e Preparação
 * [Breve resumo das ações de limpeza tomadas. Detalhes em `docs/M2_exploracao.md`]
 
-### Principais Insights (EDA)
+### Principais Conclusões (EDA)
 > *Dica: Insere aqui o gráfico mais importante do projeto.*
-* **Insight:** [Ex: Identificámos que o fator X influencia em 40% o resultado Y.]
+* *Ponto-chave:** [Ex: Identificámos que o fator X influencia em 40% o resultado Y, por aplicação do método ganho de informação]
 
 
 
